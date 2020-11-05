@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author Kenneth Cedeno
  */
-public class Problema2ProyectoPunto3 {
+public class Problema2ProyectoFactorial {
     // SUPER IMPORTANTE, no poner 0 en ninguna de las variables, ya que multiplicara por 0 y lo manda alv
     // metodo para calcular el factorial del numero pedido
     public static int factorial(int numeroUsuario) {

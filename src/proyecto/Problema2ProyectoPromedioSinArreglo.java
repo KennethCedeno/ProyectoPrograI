@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author Kenneth Cedeno
  */
-public class Problema2Proyecto {
+public class Problema2ProyectoPromedioSinArreglo {
    //metodo de suma, necesario para calcular el promedio
     public static int suma(int numA, int numB) {
         int resultadoSuma= numA + numB;

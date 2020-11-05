@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author Kenneth Cedeno
  */
-public class Problema2ProyectoPunto2 {
+public class Problema2ProyectoPromedioConArreglo {
     
     //Metodo de suma usado en el punto anterior
     public static int suma(int numA, int numB) {

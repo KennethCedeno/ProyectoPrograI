@@ -4,6 +4,6 @@ package proyecto;
  *
  * @author Kenneth Cedeno
  */
-public class Problema2ProyectoPunto4 {
+public class Problema2ProyectoListaInvertida {
     
 }
