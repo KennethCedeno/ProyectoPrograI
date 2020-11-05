@@ -28,7 +28,7 @@ public class Problema2Proyecto {
             int sumasindiv = datos.nextInt();
             berenjena = sumasindiv + berenjena;
         }
-        // division para calcular el promedio (p.1)
+        // division para calcular el promedio
         promedio = berenjena / k;
         System.out.println("El promedio es: " + promedio); 
     } 
